@@ -1,2 +1,2 @@
-# request-for-talks
-¿Quieres dar una charla con nosotros?
+# Request for Talks 🗣
+¿Quieres dar una charla o taller en Open Source Weekends?
